@@ -15,8 +15,6 @@
 
 📅 **Completed:** April 2026
 
-</div>
-
 ---
 
 # 📖 Overview
