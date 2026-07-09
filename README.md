@@ -13,6 +13,8 @@
 
 *A complete end-to-end machine learning pipeline for classifying students as **Dropout**, **Enrolled**, or **Graduate**.*
 
+📅 **Completed:** April 2026
+
 </div>
 
 ---
